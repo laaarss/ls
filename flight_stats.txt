@@ -1,5 +1,0 @@
-Statistika poleta:
-Kol-vo tochek: 13000
-Dlitelnost: 259980 ms
-Max vysota: 105.00 m
-Min vysota: 95.00 m
